@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         PlaceDE Bot
+// @name         domoplace Bot
 // @namespace    https://github.com/FlashSkyNews/Bot
 // @version      17
 // @description  /r/place bot
